@@ -1,0 +1,2 @@
+# NLW-Rockseat
+ Código de acompanhamento da Next Level Week. Aprimoração de conhecimentos em HTML, CSS, responsividade, javascript, API e node. Aprendendo conhecimentos dos package Express para configuração de servidor e rotas. Nodemmon para que não haja necessidade manual de reinicialização do servidor a cada alteração. Nunjucks que é um template engine, permite que o html requisite partes que antes eram estaticas, de um banco de dados.
